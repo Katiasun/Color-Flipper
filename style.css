@@ -143,3 +143,6 @@ p {
     letter-spacing: var(--spacing);
     margin-right: 1rem;
   }
+  nav a:hover {
+    color: var(--clr-primary-5);
+  }
