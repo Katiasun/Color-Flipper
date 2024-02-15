@@ -146,10 +146,3 @@ p {
   nav a:hover {
     color: var(--clr-primary-5);
   }
-  .nav-center h4 {
-    margin-bottom: 0;
-    color: var(--clr-primary-5);
-  }
-  .nav-links {
-    display: flex;
-  }
