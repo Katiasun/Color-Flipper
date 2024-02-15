@@ -77,3 +77,6 @@ h4 {
     margin-bottom: 0.75rem;
     font-family: var(--ff-primary);
 }
+h2 {
+    font-size: 2rem;
+}
