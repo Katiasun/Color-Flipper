@@ -116,4 +116,15 @@ p {
     min-height: 100vh;
     display: grid;
     place-items: center;
+    }
+  }
+
+  /*Nav*/
+
+  nav {
+    background: var(--clr-white);
+    height: 3rem;
+    display: frid;
+    align-items: center;
+    box-shadow: var(--dark-shadow);
   }
