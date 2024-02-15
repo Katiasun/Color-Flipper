@@ -128,3 +128,7 @@ p {
     align-items: center;
     box-shadow: var(--dark-shadow);
   }
+  .nav-center h4 {
+    margin-bottom: 0;
+    color: var(--clr-primary-5);
+  }
