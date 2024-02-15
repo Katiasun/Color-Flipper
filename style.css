@@ -124,7 +124,7 @@ p {
   nav {
     background: var(--clr-white);
     height: 3rem;
-    display: frid;
+    display: grid;
     align-items: center;
     box-shadow: var(--dark-shadow);
   }
